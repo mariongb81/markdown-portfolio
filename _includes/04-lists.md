@@ -1,3 +1,3 @@
-* lists
- * moar lists
- * you know... lists
+* *lists*
+ * **moar lists**
+ * ***you know... lists***
